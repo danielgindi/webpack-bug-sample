@@ -1,0 +1,19 @@
+{
+  "name": "webpack-bug-sample",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "dependencies": {
+    "vue": "^2.6.13"
+  },
+  "devDependencies": {
+    "style-loader": "^2.0.0",
+    "tmp": "^0.2.1",
+    "vue-loader": "^15.9.7",
+    "vue-template-compiler": "^2.6.13",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^4.0.0-beta.3"
+  }
+}
